@@ -1,1 +1,10 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+h1.titulo {
+  color: red;
+  font-style: italic;
+  margin-top: 20%;
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
